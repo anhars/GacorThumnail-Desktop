@@ -1,4 +1,4 @@
-.github/workflows/build-windows.yml
+name: Build Desktop Windows Installer
 
 on:
   workflow_dispatch:
